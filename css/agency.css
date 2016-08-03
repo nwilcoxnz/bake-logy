@@ -231,7 +231,8 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  background-image: url('../img/header-small2.jpg');
+  /*background-image: url('../img/bake-ology-banner.png');*/
+  background-color: #58b28b;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
