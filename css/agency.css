@@ -769,3 +769,12 @@ body {
 #logo {
   max-width:300px;
 }
+.bullet-list-centre {
+  margin-left: 200px;
+  margin-bottom: 20px;
+}
+@media (max-width: 767px) {
+  .bullet-list-centre {
+    margin-left: 50px;
+  }
+}
