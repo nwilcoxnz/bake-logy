@@ -156,7 +156,7 @@ fieldset[disabled] .btn-xl.active {
   border-color: transparent;
 }
 .navbar-custom .navbar-brand {
-  color: #8dcdb1;
+  color: #fff;
   font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
 }
 .navbar-custom .navbar-brand:hover,
@@ -231,8 +231,8 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  /*background-image: url('../img/bake-ology-banner.png');*/
-  background-color: #58b28b;
+  background-image: url('../img/bake-ology-banner2.jpg');
+  /*background-color: #58b28b;*/
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
